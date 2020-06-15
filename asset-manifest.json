@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitReactPage/static/css/main.956eeac4.chunk.css",
+    "main.js": "/gitReactPage/static/js/main.380dbdfe.chunk.js",
+    "main.js.map": "/gitReactPage/static/js/main.380dbdfe.chunk.js.map",
+    "runtime-main.js": "/gitReactPage/static/js/runtime-main.7d442ba4.js",
+    "runtime-main.js.map": "/gitReactPage/static/js/runtime-main.7d442ba4.js.map",
+    "static/js/2.b6606f9e.chunk.js": "/gitReactPage/static/js/2.b6606f9e.chunk.js",
+    "static/js/2.b6606f9e.chunk.js.map": "/gitReactPage/static/js/2.b6606f9e.chunk.js.map",
+    "index.html": "/gitReactPage/index.html",
+    "precache-manifest.a25ac2c70c43a9cb44dc1f0353884a58.js": "/gitReactPage/precache-manifest.a25ac2c70c43a9cb44dc1f0353884a58.js",
+    "service-worker.js": "/gitReactPage/service-worker.js",
+    "static/css/main.956eeac4.chunk.css.map": "/gitReactPage/static/css/main.956eeac4.chunk.css.map",
+    "static/js/2.b6606f9e.chunk.js.LICENSE.txt": "/gitReactPage/static/js/2.b6606f9e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gitReactPage/static/media/logo.8286644c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d442ba4.js",
+    "static/js/2.b6606f9e.chunk.js",
+    "static/css/main.956eeac4.chunk.css",
+    "static/js/main.380dbdfe.chunk.js"
+  ]
+}
